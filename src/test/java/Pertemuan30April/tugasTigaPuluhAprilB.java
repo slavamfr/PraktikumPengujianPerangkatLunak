@@ -1,3 +1,5 @@
+package Pertemuan30April;
+
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
